@@ -1,0 +1,8 @@
+# 构建产物
+bin/
+obj/
+.vs/
+
+# 用户/IDE 设置
+*.user
+*.suo
